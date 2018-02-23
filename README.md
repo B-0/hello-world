@@ -1,4 +1,4 @@
-# hello-world\n
+# hello-world
 
 B-0's log, 23-2-2018 6:27 PM
 Going through the starter's guide for github. Group project aside, there's a chance I might need to use it in the future.
